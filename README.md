@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<p align="center">Material Design for Vue.js</p>
+<p align="center">Material Design for Vue.js - fork</p>
 
 <p align="center">
   <a href="https://travis-ci.org/vuematerial/vue-material">
